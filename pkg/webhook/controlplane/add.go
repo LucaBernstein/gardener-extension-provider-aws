@@ -6,6 +6,7 @@ package controlplane
 
 import (
 	"fmt"
+
 	"github.com/Masterminds/semver/v3"
 	extensionswebhook "github.com/gardener/gardener/extensions/pkg/webhook"
 	"github.com/gardener/gardener/extensions/pkg/webhook/controlplane"
